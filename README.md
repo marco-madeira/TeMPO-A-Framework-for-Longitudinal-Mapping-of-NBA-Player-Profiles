@@ -12,5 +12,7 @@ All necessary files are included and ready for immediate use.
 For questions, feedback, or collaboration inquiries, please contact:
 
 Marco Túlio Mendes Madeira
+tuliomarco9704@gmail.com
+
 Carlos H. G. Ferreira
 chgferreira@ufop.edu.br
