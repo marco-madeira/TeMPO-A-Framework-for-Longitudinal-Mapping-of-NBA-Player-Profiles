@@ -16,3 +16,5 @@ tuliomarco9704@gmail.com
 
 Carlos H. G. Ferreira
 chgferreira@ufop.edu.br
+
+# Paper submitted to the Journal of Big Data in September 2025
