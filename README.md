@@ -8,6 +8,9 @@ This repository ensures the reproducibility of all experiments presented in the 
 Included in the repository are Jupyter Notebook files that guide users step by step through each stage of the workflow. Additionally, the complete dataset used in the study is provided.
 All necessary files are included and ready for immediate use.
 
+# How to run
+Simply clone or download the files from this repository. Open Google Colab and import the files exactly as they are organized in the repository. Before running the notebooks, please restart the Colab runtime by going to Runtime → Restart runtime. This ensures that all libraries are used in the same versions as in the study. Additional specifications and tips are provided as comments throughout the code.
+
 # Contact
 For questions, feedback, or collaboration inquiries, please contact:
 
